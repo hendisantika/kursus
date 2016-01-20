@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Catatan
 Sistem Manajemen Kursus Mengemudi &amp; Menjahit Codeigniter
 Untuk menjalankan aplikasi ini pastikan di buatkan virtual hostnya dan juga tambahkan .htaccess
@@ -69,3 +70,7 @@ Facebook : https://www.facebook.com/opChaky.it
         Header set Cache-Control "private, must-revalidate"
     </FilesMatch>
 </IfModule>
+=======
+# kursus
+SIM Kursus - CodeIgniter
+>>>>>>> 5999b13469c144113c2b0a7e68f1aed9b5020a61
